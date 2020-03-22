@@ -71,8 +71,7 @@ class VG_Sort
     public static function custom_products_per_page($per_page)
     {
 
-        $count = (int) get_query_var('show');
-        $count = empty($count) ? 16 : $count;
+        $count = (int) get_query_var('show', 16);
 
         switch ($count) {
             case 4:
