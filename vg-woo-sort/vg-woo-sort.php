@@ -3,8 +3,8 @@ defined('ABSPATH') or die('No direct access please!');
 
 /*
 Plugin Name: VG Woo Sort
-Description: Aditional sort for WooCommerce Shop
-Version: 1.0
+Description: Aditional sort, products per page dropdown for WooCommerce Shop
+Version: 2.0
 Author: Vijayan G
 Author URI: www.vijayan.in
 */
